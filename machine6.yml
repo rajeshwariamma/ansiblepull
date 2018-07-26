@@ -2,4 +2,4 @@
 - hosts: localhost
   tasks:
     - name: create file
-      file: path=/home/rps/pull.txt state=touch
+      file: path=/home/rps/pullnew.txt state=touch
